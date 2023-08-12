@@ -26,8 +26,8 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Full Stack Engineer at Zaubar
-- 🎓 I'm currently studying Petroleum Engineering at Rajiv Gandhi Institute of Petroleum Technology
 - 🌱 I love Typescript and React/Next, currently exploring Web3 and DevOps
+- 🎓 I'm currently studying Petroleum Engineering at Rajiv Gandhi Institute of Petroleum Technology
 - 📫 Shoot your questions at [anmolbansal1807@gmail.com](mailto:anmolbansal1807@gmail.com).
 
 <br />
