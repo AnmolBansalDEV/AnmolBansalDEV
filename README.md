@@ -6,9 +6,9 @@
 <a href="https://t.me/Anmolbansal02">
   <img align="left" alt="Anmol Bansal's Telegram" width="24px" src="https://img.icons8.com/nolan/96/telegram-app.png">
 </a>
-<a href="https://twitter.com/AnmolBansal02">
+<!-- <a href="https://twitter.com/AnmolBansal02">
   <img align="left" alt="Anmol Bansal's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
+</a> -->
 <a href="https://discordapp.com/users/anmolbansal">
   <img align="left" alt="Anmol Bansal's Discord" width="24px" src="https://img.icons8.com/nolan/96/discord.png" />
 </a>
@@ -25,9 +25,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Full Stack Engineer at Zaubar
-- 🌱 I love Typescript and React/Next, currently exploring Web3 and DevOps
-- 🎓 I'm a final year undergrad at Rajiv Gandhi Institute of Petroleum Technology
+- 👨🏽‍💻 I’m currently a Frontend Engineer at Zaubar
+- 🌱 I love Typescript and Vue/Nuxt, currently exploring Web3 and DevOps
 - 📫 Shoot your questions at [anmolbansal1807@gmail.com](mailto:anmolbansal1807@gmail.com)
 
 <br />
