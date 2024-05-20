@@ -6,9 +6,9 @@
 <a href="https://t.me/Anmolbansal02">
   <img align="left" alt="Anmol Bansal's Telegram" width="24px" src="https://img.icons8.com/nolan/96/telegram-app.png">
 </a>
-<!-- <a href="https://twitter.com/AnmolBansal02">
+<a href="https://twitter.com/AnmolBansal02">
   <img align="left" alt="Anmol Bansal's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a> -->
+</a>
 <a href="https://discordapp.com/users/anmolbansal">
   <img align="left" alt="Anmol Bansal's Discord" width="24px" src="https://img.icons8.com/nolan/96/discord.png" />
 </a>
