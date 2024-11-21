@@ -25,8 +25,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Frontend Engineer at Zaubar
-- 🌱 I love Typescript and Vue/Nuxt, currently exploring Web3 and DevOps
+- 👨🏽‍💻 I’m currently a Full stack Engineer at Holonym
+- 🌱 I love Typescript, React/Next and Vue/Nuxt, currently exploring Rust and DevOps
 - 📫 Shoot your questions at [anmolbansal1807@gmail.com](mailto:anmolbansal1807@gmail.com)
 
 <br />
